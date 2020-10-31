@@ -13,6 +13,7 @@ Algumas das minhas competências e tecnologias que estou/pretendo estudar em seg
 - MongoDB
 - MySQL
 - Docker
+- Git
 - HTML5
 - CSS3
 
