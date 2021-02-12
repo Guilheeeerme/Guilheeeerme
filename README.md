@@ -7,14 +7,11 @@ Meu nome é Guilherme, 23 anos e sou estudante de Análise e Desenvolvimento de 
 Algumas das minhas competências e tecnologias que estou/pretendo estudar em seguida:
 
 - JavaScript / TypeScript
-- NodeJS
-- Express
+- NodeJS - Express
 - Git
-- MongoDB
-- PostgreSQL
-- Docker
-- HTML5
-- CSS3
+- MongoDB / PostgreSQL
+- HTML5 / CSS3
+- Docker (Em breve)
 - TDD (Em breve)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
