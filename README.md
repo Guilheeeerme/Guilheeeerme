@@ -9,6 +9,7 @@ Algumas das minhas competências e tecnologias que estou/pretendo estudar em seg
 - JavaScript / TypeScript
 - NodeJS - Express
 - Git
+- Rest
 - MongoDB / PostgreSQL
 - HTML5 / CSS3
 - Docker (Em breve)
