@@ -6,7 +6,7 @@ Meu nome é Guilherme, 23 anos e sou estudante de Análise e Desenvolvimento de 
 
 Em 2020 concluí dois Bootcamps imersivos, Front End Coding da [Digital House](https://www.digitalhouse.com/br) com duração de 1 mês e Desenvolvedor Full Stack do [IGTI](https://www.igti.com.br/) com duração de 2 meses.
 
-Atualmente estou participando do Ignite da [Rocketseat](https://rocketseat.com.br/), na trilha de Nodejs.
+:collision: Atualmente estou participando do Ignite da [Rocketseat](https://rocketseat.com.br/), na trilha de Nodejs.
 
 Algumas das minhas competências e tecnologias que estou/pretendo estudar em seguida:
 
