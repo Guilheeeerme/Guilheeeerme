@@ -15,10 +15,9 @@ Algumas das minhas competências e tecnologias que estou/pretendo estudar em seg
 - Git
 - Rest
 - MongoDB / PostgreSQL
-- HTML5 / CSS3
 - TDD (Estudando)
-- Docker (Em breve)
-
+- Docker (Estudando)
+- HTML5 / CSS3
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
 ![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
