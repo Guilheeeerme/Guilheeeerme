@@ -10,7 +10,7 @@ Em 2020 concluí dois Bootcamps imersivos, Front End Coding da [Digital House](h
 
 Algumas das minhas competências e tecnologias que estou/pretendo estudar em seguida:
 
-- JavaScript / TypeScript(Estudando)
+- JavaScript / TypeScript (Estudando)
 - NodeJS - Express
 - Git
 - Rest
