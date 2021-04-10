@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/guilherme-moura-054477180/)
 
-Meu nome é Guilherme, 23 anos e sou estudante de Análise e Desenvolvimento de Sistemas, estou estudando com ênfase em desenvovimento Backend.
+Meu nome é Guilherme, 23 anos e sou estudante de Análise e Desenvolvimento de Sistemas, estou estudando com ênfase em desenvolvimento Backend.
 
 Em 2020 concluí dois Bootcamps imersivos, Front End Coding da [Digital House](https://www.digitalhouse.com/br) com duração de 1 mês e Desenvolvedor Full Stack do [IGTI](https://www.igti.com.br/) com duração de 2 meses, já em 2021 concluí também um Bootcamp com carga horária de 85 horas pela [DIO](https://web.digitalinnovation.one/home) com foco na Plataforma .NET
 
