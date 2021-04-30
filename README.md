@@ -15,7 +15,7 @@ Algumas das minhas competências e tecnologias que estou/pretendo estudar em seg
 - Git
 - Rest
 - MongoDB / PostgreSQL
-- TDD (Estudando)
+- TDD - Jest e Supertest (Estudando)
 - Docker (Estudando)
 - HTML5 / CSS3
 
