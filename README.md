@@ -9,21 +9,9 @@ No meu dia a dia no trabalho atuo no desenvolvimento de API's usando arquitetura
 Algumas das tecnologias que utilizo são: AWS Lambda, AWS CloudWatch, Serverless Framework, Nodejs, Docker, Jest, plataforma ALTU, git e github para versionamento de código.
 
 
-💥 Em 2020 concluí dois Bootcamps imersivos, Front End Coding da [Digital House](https://www.digitalhouse.com/br) com duração de 1 mês e Desenvolvedor Full Stack do [IGTI](https://www.igti.com.br/) com duração de 2 meses, já em 2021 concluí também um Bootcamp com carga horária de 85 horas pela [DIO](https://web.digitalinnovation.one/home) com foco na Plataforma .NET
+💥 Em 2020 concluí dois Bootcamps imersivos, Front End Coding da [Digital House](https://www.digitalhouse.com/br) com duração de 1 mês e Desenvolvedor Full Stack do [IGTI](https://www.igti.com.br/) com duração de 2 meses, já em 2021 concluí também um Bootcamp com carga horária de 85 horas pela [DIO](https://web.digitalinnovation.one/home) com foco na Plataforma .NET e o Ignite da [Rocketseat](https://rocketseat.com.br/), na trilha de Nodejs.
 
-💥 Atualmente estou participando do Ignite da [Rocketseat](https://rocketseat.com.br/), na trilha de Nodejs e
-estudando Infraestrutura como código, Arquitetura Serverless utilizando AWS, Devops.
-
-Algumas das minhas competências e tecnologias que estou/pretendo estudar em seguida:
-
-- JavaScript / TypeScript (Estudando)
-- NodeJS - Express, Nest
-- Git
-- Rest, SOAP
-- MongoDB / PostgreSQL
-- TDD - Jest e Supertest (Estudando)
-- Docker e Kubernetes (Estudando)
-- HTML5 / CSS3
+💥 Atualmente estudando Infraestrutura como código, Arquitetura Serverless utilizando AWS, Devops.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
 ![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
