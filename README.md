@@ -11,7 +11,7 @@ Algumas das tecnologias que utilizo são: AWS Lambda, AWS CloudWatch, Serverless
 
 💥 Em 2020 concluí dois Bootcamps imersivos, Front End Coding da [Digital House](https://www.digitalhouse.com/br) com duração de 1 mês e Desenvolvedor Full Stack do [IGTI](https://www.igti.com.br/) com duração de 2 meses, já em 2021 concluí também um Bootcamp com carga horária de 85 horas pela [DIO](https://web.digitalinnovation.one/home) com foco na Plataforma .NET e o Ignite da [Rocketseat](https://rocketseat.com.br/), na trilha de Nodejs.
 
-💥 Atualmente estudando Infraestrutura como código, Arquitetura Serverless utilizando AWS, Devops.
+💥 Atualmente estudando Infraestrutura como código, Arquitetura Serverless utilizando AWS, DevOps.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
 ![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
