@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/guilherme-moura-054477180/)
 
-Meu nome é Guilherme, tenho 24 anos, sou graduado em Análise e Desenvolvimento de Sistemas e trabalho como Desenvolvedor na D1 | Smarkio.
+Meu nome é Guilherme, tenho 24 anos, sou graduado em Análise e Desenvolvimento de Sistemas e trabalho como Desenvolvedor na D1 - Jornadas Digitais.
 
 No meu dia a dia no trabalho atuo no desenvolvimento de API's usando arquitetura serverless, fazendo integrações REST e SOAP, testes unitários e desenvolvimento de chatbot a partir da plataforma ALTU de IA conversacional.
 
