@@ -2,11 +2,11 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/guilherme-moura-054477180/)
 
-Meu nome é Guilherme, tenho 24 anos, sou graduado em Análise e Desenvolvimento de Sistemas e trabalho como Desenvolvedor na D1 - Jornadas Digitais.
+Meu nome é Guilherme, tenho 24 anos, sou graduado em Análise e Desenvolvimento de Sistemas e sou Desenvolvedor Jr.
 
-No meu dia a dia no trabalho atuo no desenvolvimento de API's usando arquitetura serverless, fazendo integrações REST e SOAP, testes unitários e desenvolvimento de chatbot a partir da plataforma ALTU de IA conversacional.
+Possuo experiência no desenvolvimento de API's usando arquitetura serverless, integrações REST e SOAP, testes unitários e desenvolvimento de chatbots a partir da plataformas ALTU de IA conversacional e Blip.
 
-Algumas das tecnologias que utilizo são: AWS Lambda, AWS CloudWatch, Serverless Framework, Nodejs, Docker, Jest, plataforma ALTU, git e github para versionamento de código.
+Algumas das tecnologias que já trabalhei foram: AWS Lambda, AWS CloudWatch, Serverless Framework, Nodejs, Docker, Jest, plataforma ALTU e Blip para desenvolver chatbots, git e github para versionamento de código.
 
 
 💥 Em 2020 concluí dois Bootcamps imersivos, Front End Coding da [Digital House](https://www.digitalhouse.com/br) com duração de 1 mês e Desenvolvedor Full Stack do [IGTI](https://www.igti.com.br/) com duração de 2 meses, já em 2021 concluí também um Bootcamp com carga horária de 85 horas pela [DIO](https://web.digitalinnovation.one/home) com foco na Plataforma .NET e o Ignite da [Rocketseat](https://rocketseat.com.br/), na trilha de Nodejs.
