@@ -1,6 +1,6 @@
 # :man_technologist: Guilherme de Moura Neto 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/guilherme-moura-054477180/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/guilherme-de-moura-neto-054477180/)
 
 Meu nome é Guilherme, tenho 24 anos, sou graduado em Análise e Desenvolvimento de Sistemas e sou Desenvolvedor Jr.
 
