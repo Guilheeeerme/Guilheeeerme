@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/guilherme-de-moura-neto-054477180/)
 
-Meu nome é Guilherme, tenho 25 anos, sou graduado em Análise e Desenvolvimento de Sistemas e sou Desenvolvedor.
+Meu nome é Guilherme, tenho 26 anos, sou graduado em Análise e Desenvolvimento de Sistemas e sou Desenvolvedor.
 
 Possuo experiência no desenvolvimento de API's REST e aplicações Serverless, integrações REST e SOAP, testes unitários e desenvolvimento de chatbots a partir da plataformas ALTU de IA conversacional e Blip.
 
