@@ -4,7 +4,7 @@
 
 Meu nome é Guilherme, tenho 26 anos, sou graduado em Análise e Desenvolvimento de Sistemas e sou Desenvolvedor.
 
-Possuo experiência no desenvolvimento de API's REST e aplicações Serverless, integrações REST e SOAP, testes unitários e desenvolvimento de chatbots a partir da plataformas ALTU de IA conversacional e Blip.
+Possuo experiência no desenvolvimento de API's REST e aplicações Serverless, integrações REST e SOAP, testes unitários e desenvolvimento de chatbots a partir de plataformas de Low Code e IA conversacional.
 
 Algumas das tecnologias que já trabalhei foram: AWS Lambda, AWS CloudWatch, Serverless Framework, Nodejs, Docker, Jest, plataforma ALTU e Blip para desenvolver chatbots, git e github para versionamento de código.
 
