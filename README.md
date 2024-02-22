@@ -4,9 +4,9 @@
 
 Meu nome é Guilherme, tenho 26 anos, sou graduado em Análise e Desenvolvimento de Sistemas e sou Desenvolvedor.
 
-Possuo experiência no desenvolvimento de API's REST e aplicações Serverless, integrações REST e SOAP, testes unitários e desenvolvimento de chatbots a partir de plataformas de Low Code e IA conversacional.
+Possuo experiência no desenvolvimento de API's REST e aplicações Serverless, integrações REST e SOAP, testes unitários e desenvolvimento de Chatbots a partir de plataformas de Low Code e IA conversacional.
 
-Algumas das tecnologias que já trabalhei foram: AWS Lambda, AWS CloudWatch, Serverless Framework, Nodejs, Docker, Jest, plataforma ALTU e Blip para desenvolver chatbots, git e github para versionamento de código.
+Algumas das tecnologias que já trabalhei foram: JavaScript e TypeScript, Nodejs, Docker, Jest, AWS Lambda, AWS CloudWatch, Serverless Framework, plataforma ALTU e Blip para desenvolver Chatbots, git e github para versionamento de código.
 
 
 💥 Em 2020 concluí dois Bootcamps imersivos, Front End Coding da [Digital House](https://www.digitalhouse.com/br) com duração de 1 mês e Desenvolvedor Full Stack do [IGTI](https://www.igti.com.br/) com duração de 2 meses, já em 2021 concluí também um Bootcamp com carga horária de 85 horas pela [DIO](https://web.digitalinnovation.one/home) com foco na Plataforma .NET e o Ignite da [Rocketseat](https://rocketseat.com.br/), na trilha de Nodejs.
